@@ -1,5 +1,5 @@
 # Emby 走代理服务器清单（自有）
-# 用法：Surge 规则 RULE-SET 引用本文件，命中的域名走 ☄️ newFly 组。
+# 用法：Surge 规则 RULE-SET 引用本文件，命中的域名走 NewFly 组。
 # 每行一条规则，格式：DOMAIN-SUFFIX,example.com
 # 域名由用户逐台筛选后填入；不抄 youko 的清单。
 
