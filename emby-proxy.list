@@ -8,3 +8,7 @@ DOMAIN-SUFFIX,lite.cn2gias.uk
 
 # ChilledMelon（端口 443）
 DOMAIN-SUFFIX,us.chilledmelon.com
+
+# 折纸（端口 443）
+DOMAIN-SUFFIX,cdn.zhezhi.art
+DOMAIN-SUFFIX,emby101.origamiart.uk
