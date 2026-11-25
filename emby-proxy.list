@@ -24,3 +24,9 @@ DOMAIN-SUFFIX,gcf.betop.uk
 
 # Nox（端口 443）
 DOMAIN-SUFFIX,test.inemby.us.ci
+
+# Chapanda（端口 443）
+DOMAIN-SUFFIX,emby.chapanda.site
+
+# 非越（端口 443）
+DOMAIN-SUFFIX,cf.sfcj.org
