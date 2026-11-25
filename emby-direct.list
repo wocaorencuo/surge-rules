@@ -5,3 +5,6 @@
 
 # peach（端口 8443）
 DOMAIN-SUFFIX,white.embymv.cc
+
+# 乐蛙（端口 443）
+DOMAIN-SUFFIX,emby.taotu.ink
