@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,emby101.origamiart.uk
 
 # Nebula星云（端口 443）
 DOMAIN-SUFFIX,emby.nebula-media.org
+
+# Monta（端口 443）
+DOMAIN-SUFFIX,play.eoos.top
