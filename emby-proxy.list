@@ -30,3 +30,6 @@ DOMAIN-SUFFIX,emby.chapanda.site
 
 # 非越（端口 443）
 DOMAIN-SUFFIX,cf.sfcj.org
+
+# NiuBi（端口 443）
+DOMAIN-SUFFIX,772111.xyz
