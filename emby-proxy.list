@@ -33,3 +33,6 @@ DOMAIN-SUFFIX,cf.sfcj.org
 
 # NiuBi（端口 443）
 DOMAIN-SUFFIX,772111.xyz
+
+# M mini（端口 443）
+DOMAIN-SUFFIX,minicf.mebimmer.de
